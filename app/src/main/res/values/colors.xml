@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#FFFFFFFF</color>
+    <color name="background_dark">#FF0A0A0A</color>
+
+    <color name="foreground">#FF0A0A0A</color>
+    <color name="foreground_dark">#FFFAFAFA</color>
+
+    <color name="card">#FFFFFFFF</color>
+    <color name="card_dark">#FF0A0A0A</color>
+    <color name="card_foreground">#FF0A0A0A</color>
+    <color name="card_foreground_dark">#FFFAFAFA</color>
+
+    <color name="popover">#FFFFFFFF</color>
+    <color name="popover_dark">#FF0A0A0A</color>
+    <color name="popover_foreground">#FF0A0A0A</color>
+    <color name="popover_foreground_dark">#FFFAFAFA</color>
+
+    <color name="primary">#FF0F172A</color>
+    <color name="primary_dark">#FFFAFAFA</color>
+    <color name="primary_foreground">#FFFAFAFA</color>
+    <color name="primary_foreground_dark">#FF0F172A</color>
+
+    <color name="secondary">#FFF1F5F9</color>
+    <color name="secondary_dark">#FF1E293B</color>
+    <color name="secondary_foreground">#FF0F172A</color>
+    <color name="secondary_foreground_dark">#FFFAFAFA</color>
+
+    <color name="muted">#FFF1F5F9</color>
+    <color name="muted_dark">#FF1E293B</color>
+    <color name="muted_foreground">#FF64748B</color>
+    <color name="muted_foreground_dark">#FF94A3B8</color>
+
+    <color name="accent">#FFF1F5F9</color>
+    <color name="accent_dark">#FF1E293B</color>
+    <color name="accent_foreground">#FF0F172A</color>
+    <color name="accent_foreground_dark">#FFFAFAFA</color>
+
+    <color name="destructive">#FFEF4444</color>
+    <color name="destructive_dark">#FF7F1D1D</color>
+    <color name="destructive_foreground">#FFFAFAFA</color>
+    <color name="destructive_foreground_dark">#FFFAFAFA</color>
+
+    <color name="border">#FFE2E8F0</color>
+    <color name="border_dark">#FF1E293B</color>
+
+    <color name="input">#FFE2E8F0</color>
+    <color name="input_dark">#FF1E293B</color>
+
+    <color name="ring">#FF94A3B8</color>
+    <color name="ring_dark">#FF334155</color>
+
+    <color name="chart_1">#FFE11D48</color>
+    <color name="chart_2">#FFF59E0B</color>
+    <color name="chart_3">#FF22C55E</color>
+    <color name="chart_4">#FF3B82F6</color>
+    <color name="chart_5">#FFA855F7</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="surface_light">@color/card</color>
+    <color name="surface_dark">@color/card_dark</color>
+    <color name="on_surface_light">@color/card_foreground</color>
+    <color name="on_surface_dark">@color/card_foreground_dark</color>
+    <color name="on_surface_variant_light">@color/muted_foreground</color>
+    <color name="on_surface_variant_dark">@color/muted_foreground_dark</color>
+
+    <color name="error">@color/destructive</color>
+    <color name="error_dark">@color/destructive_dark</color>
+    <color name="on_error">@color/destructive_foreground</color>
+    <color name="on_error_dark">@color/destructive_foreground_dark</color>
+</resources>
